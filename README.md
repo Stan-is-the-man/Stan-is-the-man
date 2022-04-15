@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Stanislav Yanakiev
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 📫 How to reach me at stan5050@gmail.com or 0885056970
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning Python.
+- 📫 Reach me at stanislav.yanakievv@gmail.com or 0885056970
