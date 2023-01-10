@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stanislav Yanakiev
 - 👀 I’m interested in Python Software Development.
-- 🌱 I’m currently learning Python and SQL.
+- 🌱 I’m currently learning SQL.
 - 📫 Reach me at stanislav.yanakievv@gmail.com or 0885056970
 - https://www.linkedin.com/in/stanislav-yanakiev-987328174/
