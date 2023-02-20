@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Stanislav Yanakiev. I recently retrained for a new career challenge in the Software Development with Python Programing Language.  For the last 12 years I gained experience in problem solving and team management, which will help me in this new role.  Proactive and reliable employee,  a long term investment for every company, willing to work together.
 - 👀 I’m interested in Python Software Development.
 - 🌱 I’m currently learning SQL/LINIX/PANDAS.
-- 📫 Reach me at stanislav.yanakievv@gmail.com or 0885056970
-- https://www.linkedin.com/in/stanislav-yanakiev-987328174/
+- 📫 Reach me at my email: 
+- stanislav.yanakievv@gmail.com 
+-  📫 Reach me at my phone number:  0885056970
+-  -  📫 Reach me at: https://www.linkedin.com/in/stanislav-yanakiev-987328174/
