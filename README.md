@@ -7,7 +7,7 @@ Working in sales and distribution helped me to acquire vast experience with prob
 I fully realize, that the process of continuously learning new knowledge is a must ! Growing my skill set will keep me competitive. I firmly believe in self-education.
 My key to success is attention to every single detail and striving to put all my efforts and energy in the job. I am proactive and reliable employee. 
 
-- 👀 I’m interested in Python Software Development.
+- 👀 I’m interested in Python Software Development/Data science.
 - 🌱 I’m currently learning the basic of Data Science.
 - 📫 Reach me at my email: stanislav.yanakievv@gmail.com 
 -  📫 Reach me at my phone number:  0885056970
